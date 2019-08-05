@@ -1,3 +1,2 @@
 # firstexpressjs
-This is my first express js repo
-Its about basic CRUD process
+This is my first express js repo about basic CRUD process
